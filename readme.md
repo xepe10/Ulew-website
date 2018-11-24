@@ -1,0 +1,1 @@
+scp -r * root@162.243.165.74:/var/www/ulew/www/
