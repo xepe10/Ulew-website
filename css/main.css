@@ -3155,6 +3155,14 @@ html.no-csstransitions .home-content__main {
     margin: 0;
 }
 
+.map-movil {
+    display: none
+}
+
+.video-movil {
+    display:none
+}
+
 .message-warning, 
 .message-success {
     display: none;
@@ -3592,6 +3600,22 @@ footer .row {
     }
     .footer-subscribe #mc-form label {
         text-align: center;
+    }
+
+    .map-movil {
+        display: block
+    }
+
+    .map-desktop {
+        display: none 
+    }
+
+    .video-movil {
+        display: block
+    }
+
+    .video-desktop {
+        display: none
     }
 }
 
