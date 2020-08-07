@@ -1,1 +1,1 @@
-scp -r * root@162.243.165.74:/var/www/ulew/www/
+scp -r * root@161.35.126.191:/var/www/ulew.com.gt/www/
